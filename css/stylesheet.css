@@ -2,10 +2,10 @@
     background-color: rgba(70, 86, 105, 0.5)e;
     padding: 5px 10px 5px 10px;
     border-left-width: 2px;
-    border-top-width: 2px;
+    border-top-width: 0px;
     border-right-width: 2px;
     border-bottom-width: 0px;
-    border-color: rgb(77, 0, 0);
+    border-color: rgb(255, 255, 255);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-style: solid;
@@ -18,7 +18,7 @@
     border-bottom-width: 0px;
     border-right-width: 2px;
     border-top-width: 0px;
-    border-color: rgb(77, 0, 0);
+    border-color: rgb(255, 255, 255);
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
     border-style: solid;
@@ -28,10 +28,10 @@
     background-color: rgba(70, 86, 105, 0.7);
     padding: 5px 10px 5px 10px;
     border-left-width: 2px;
-    border-bottom-width: 2px;
+    border-bottom-width: 0px;
     border-right-width: 2px;
     border-top-width: 0px;
-    border-color: rgb(77, 0, 0);
+    border-color: rgb(255, 255, 255);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     border-style: solid;
